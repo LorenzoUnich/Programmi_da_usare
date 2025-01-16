@@ -1,0 +1,2 @@
+Server,Date,Content-type,Content-length,Connection,X-cache-key,Access-control-allow-origin,Access-control-allow-credentials,Access-control-allow-methods
+openresty,"Thu, 16 Jan 2025 11:00:07 GMT",application/json; charset=utf-8,505,keep-alive,/data/2.5/weather?lat=40.83&lon=14.25,*,true,"GET, POST"
