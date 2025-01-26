@@ -1,0 +1,10 @@
+{
+    "defaultDomain" : "New_sokoban.pddl",
+    "defaultOptions": "",
+    "cases": [
+    {
+        "problem": "sokoban_puzzle.pddl"
+    }
+
+    ]
+}
