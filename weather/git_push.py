@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Configura il percorso della cartella e il repository remoto
 FOLDER_PATH = "C://Users//User//Documents//GitHub"
-REMOTE_REPO = "https://github.com/LorenzoUnich/Programmi_da_usare"  # Usa il formato HTTPS o SSH
+REMOTE_REPO = "git@github.com:https://github.com/LorenzoUnich/Programmi_da_usare"  # Usa il formato HTTPS o SSH
 
 def run_command(command, cwd=None):
     """Esegue un comando nella shell e restituisce l'output."""
