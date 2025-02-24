@@ -1,0 +1,1 @@
+This folder contains some examples in PDDL. In particular, the folder _example_ has some classical examples in PDDL, while the folder _sokoban_ is a solution of the game sokoban (well, some proposed puzzles) in PDDL. 
