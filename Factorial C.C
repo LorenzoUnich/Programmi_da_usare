@@ -1,5 +1,5 @@
 //my first autonomously written C programme
-// Maybe my first sensbile one, withoud staling code from left and right or eworking on someone else's code
+// Maybe my first sensbile one, withoud stealing code from left and right or eworking on someone else's code
 // put ; after every line of delcaration of something or after it does something
 
 
